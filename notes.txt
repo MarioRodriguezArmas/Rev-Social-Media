@@ -1,0 +1,12 @@
+1:06
+Auth/ login with Google done
+1:25
+Side bar md done
+1:40
+Side bar categories added
+2:04
+Spinner is not working
+2:41
+Optimized alreadySaved function
+2:56
+Create Pin
