@@ -10,3 +10,5 @@ Spinner is not working
 Optimized alreadySaved function
 2:56
 Create Pin
+4:06
+Debug Home.js
